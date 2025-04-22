@@ -1,0 +1,9 @@
+<node name="/com/example/Test/Object">
+  <interface name="com.example.Test">
+    <property name="Version" type="s" access="read"/>
+    <method name="ReverseText">
+      <arg name="input" type="s" direction="in"/>
+      <arg name="output" type="s" direction="out"/>
+    </method>
+  </interface>
+</node>
