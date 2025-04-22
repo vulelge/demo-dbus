@@ -1,9 +1,9 @@
 {
-    "id": "com.flutter.app.demo_dbus",
+    "id": "com.webos.app.demo_dbus",
     "version": "1.0.0",
     "vendor": "LG Electronics",
     "type": "flutter",
-    "main": "/usr/palm/applications/com.flutter.app.demo_dbus/",
+    "main": "/usr/palm/applications/com.webos.app.demo_dbus/",
     "title": "Flutter Indicator Application",
     "icon": "icon.png",
     "iconColor": "#ffffff",
